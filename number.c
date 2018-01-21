@@ -9,8 +9,8 @@ int main()
     scanf("%d", &exponent);
     while (exponent != 0)
     {
-        result *= base;
-        --exponent;
+    result *= base;
+    --exponent;
     }
     printf("Answer = %lld", result);
     return 0;
