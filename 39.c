@@ -13,6 +13,7 @@ for(j=0;j<10;j++)
 if (n<a[j])
 n=a[j];
 }
+prinf("to print the number \n");
 printf("The largest number is : %d",n);
 return 0;
 }
