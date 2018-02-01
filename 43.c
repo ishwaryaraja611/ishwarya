@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<conio.h>
 {
 int main()
 char str1[20],str2[20],i,j;
