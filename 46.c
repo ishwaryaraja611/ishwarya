@@ -3,8 +3,8 @@ int main()
 {
 int num,count=1,i;
 printf("enter the number");
-scanf("%d",&n);
-for(i=1;i<n;i++)
+scanf("%d",&num);
+for(i=1;i<num;i++)
 {
 count++;
 }
