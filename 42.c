@@ -17,8 +17,7 @@ if(count1==count2)
 {
 printf("%s",a[i]);
 }
-else
-if(count1<count2)
+else if(count1<count2)
 {
 printf("%s",b[i]);
 }
