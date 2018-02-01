@@ -15,4 +15,4 @@ str1[i]='\0';
 printf("concatenate string %s",srt1[i]);
 return 0;
 }
-© 2018 GitHub, Inc.
+
