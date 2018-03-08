@@ -10,7 +10,7 @@ l=strlen(str);
 if(l%2==0)
 {
 str[l/2]='*';
-str[(l/2)-1]='*';
+str[(l/2)-9]='*';
 }
 else
 {
